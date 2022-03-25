@@ -46,9 +46,6 @@ const Home = () => {
           <a href="https://github.com/devofthings" target="_blank">
             <FontAwesomeIcon icon={faGithub} className={styles.ref} />
           </a>
-          <a href="https://twitter.com/thedevofthings" target="_blank">
-            <FontAwesomeIcon icon={faTwitter} className={styles.ref} />
-          </a>
         </div>
       </main>
 
